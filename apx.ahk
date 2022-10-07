@@ -58,7 +58,6 @@ return
 
 swap_slot:
     slot := StrReplace(A_ThisHotkey, "~$*", "")
-    voice.speak(slots[slot], 1)
 return
 
 noop:
@@ -85,7 +84,6 @@ load_pattern(fileName) {
     sleep 5
     loop {
         active_pattern := patterns[slots[slot]]
-        speak(active_pattern)
         pattern := strsplit(active_pattern[a_index], ",")
 
         x := pattern[1]
