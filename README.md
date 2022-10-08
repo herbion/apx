@@ -2,4 +2,4 @@
 
 Simple no recoil AHK script
 
-![image](https://user-images.githubusercontent.com/1495177/194723091-e87d57e9-851d-4a20-96d4-bc6d8dbfb36b.png)
+![apx](https://user-images.githubusercontent.com/1495177/194723331-3a8bf6d1-f746-450c-8a31-443f58dc760e.gif)
